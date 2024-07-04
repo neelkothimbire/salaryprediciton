@@ -5,7 +5,9 @@ This project predicts salaries based on features like education, experience, and
 Features
   
   1.Predict salaries using a trained machine learning model
+  
   2.Interactive web interface with Streamlit
+  
   3.User input for various features influencing salary
 
 
